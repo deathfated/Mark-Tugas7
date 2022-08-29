@@ -21,6 +21,7 @@ public class AudioManager : MonoBehaviour
     }
     public void PlayBgm()
     {
-        _bgmAudioSource[Random.Range(0, _bgmAudioSource.Count)].Play();
+        _bgmAudioSource[Random.Range(0, _bgmAudioSource.Count)].gameObject.SetActive(true);
+
     }
 }
