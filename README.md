@@ -1,3 +1,5 @@
+#merge dari "herdi-noor", belom logout di sourcetree, harusnya dari Mark C
+
 # Mark-Tugas7
 Sample Game for practicing game optimization (reduce draw call, object pooling, resource load)
 
